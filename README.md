@@ -22,6 +22,7 @@
 ### ML
 - [datasets](https://github.com/huggingface/datasets): The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools.
 - [MLFlow](https://github.com/mlflow/mlflow): Open source platform for the machine learning lifecycle. Also a video [Standford MLSys Seminar Episode 2](https://youtu.be/nCQ9WqXPIS4) explain MLFlow by founder of Databrick.
+- [ShinyApps](https://www.shinyapps.io/): Bring ML model to production with speed to test your MVP. Also with an [example app](https://eduardo2c.shinyapps.io/SpeaktheData/) developed by my friend Eduardo, help you analyse how inspiring is your speech. Model bulit based on more than 2,500 TEDx speeches.
 
 
 ### Free stuff
