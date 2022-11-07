@@ -35,6 +35,7 @@
 ### Product Inspiration
 - [f8app](https://github.com/fbsamples/f8app): Source code of an event/conference management app with tutorial on how they build it with React, Redux, Relay, GraphQL and etc. 
 - [Joplin](https://github.com/laurent22/joplin): An open source note-taking/to-do app with syncrhonisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [Cal.com](https://cal.com/): An open source scheduling tool to help you focus on meeting rather than making meeting. Product hunt ^
 
 
 ### Design
@@ -46,5 +47,4 @@
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html): Build best landing page with 100+ hand-picked tools.
 
 # Operation
-### Scheduling
-- [Cal.com](https://cal.com/): A tool to help you focus on meeting rather than making meeting. Product hunt ^
+
