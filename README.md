@@ -2,7 +2,7 @@
 ### An ongoing-updated list inspired by [Terry Lennon](https://github.com/tlennon140) with focus heavily leaning towards SaaS application.
 -----
 # Product&Development
-### Coding
+### Backend
 - [AWS SaaS Boost](https://github.com/awslabs/aws-saas-boost): Provides organizations with ready-to-use core software elements for successfully running SaaS workloads in the cloud. Software builders can focus on preserving core intellectual property by removing the complexities of building SaaS solutions.
 - [Design pattern for multi-tenant SaaS application and Azure SQL Database](https://github.com/harshalawasthi/ConnectorDocs/blob/9a52d063a6fd541d2b54df74d2cd532fa122fb81/articles/sql-database/sql-database-design-patterns-multi-tenancy-saas-applications.md) 
 - [rebar](https://github.com/MachineAcuity/rebar): Multi-tenant SaaS boiletplate + examples for universal web application with React, Material-UI, Relay, GraphQL, JWT, Node.js, Cassandra and other NoSQL DB.
@@ -15,6 +15,10 @@
 - [Learn to build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs](https://github.com/panacloud/bootcamp-2020)
 - [Fusing Serverless, Graph, AI, IoT, DeFi, Blockchain and Quantum Technologies](https://github.com/panacloud/bootcamp-2021)
 - [CodeSandBox](https://codesandbox.io/): Collaboration tool for developement team
+
+
+### Frontend
+- [Turbo Repo](https://github.com/vercel/turbo): next-generation toolchain for frontend development, written in Rust.
 - [next.js examples](https://nextexamples.vercel.app/): A full example list of front-end and backend development in next.js
 - [fullstackhero](https://github.com/fullstackhero)：Open source framework for modern web applications.
 - [Full Stack Modern Web Application Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql): use FastAPI, PostgreSQL, Docker, automatic HTTPS and more.
@@ -31,6 +35,7 @@
 
 ### Product Analytics
 - [analytics.com](https://amalytics.com/): Amazon analytics to find top Amazon niches by keyword or criteria
+- [Amplitude](https://amplitude.com/): Best in-class product analytics and user event tracking tool.
 
 
 ### Product Inspiration
