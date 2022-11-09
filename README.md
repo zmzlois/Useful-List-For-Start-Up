@@ -51,6 +51,9 @@
 # Marketing
 ### Landing Page
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html): Build best landing page with 100+ hand-picked tools.
+- [Cruip](https://cruip.com/free-templates/): Free landing page resource for start ups from Cruip.
+- [TailwindUI](https://tailwindui.com/): landing page templates and components made by makers of Tailwind CSS.
+- [daisyUI](https://daisyui.com/): a plugin for Tailwind CSS.
 
 # Operation
 
