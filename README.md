@@ -23,6 +23,7 @@
 - [fullstackhero](https://github.com/fullstackhero)：Open source framework for modern web applications.
 - [Full Stack Modern Web Application Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql): use FastAPI, PostgreSQL, Docker, automatic HTTPS and more.
 
+
 ### ML
 - [datasets](https://github.com/huggingface/datasets): The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools.
 - [MLFlow](https://github.com/mlflow/mlflow): Open source platform for the machine learning lifecycle. Also a video [Standford MLSys Seminar Episode 2](https://youtu.be/nCQ9WqXPIS4) explain MLFlow by founder of Databrick.
@@ -54,6 +55,7 @@
 - [Cruip](https://cruip.com/free-templates/): Free landing page resource for start ups from Cruip.
 - [TailwindUI](https://tailwindui.com/): landing page templates and components made by makers of Tailwind CSS.
 - [daisyUI](https://daisyui.com/): a plugin for Tailwind CSS.
+- [Vite](https://vitejs.dev/): Next generation front-end tooling enable to build landing page with react.
 
 # Operation
 
