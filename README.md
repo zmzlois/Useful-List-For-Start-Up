@@ -10,6 +10,7 @@
 - [multiTenant Infrastructure explained](https://github.com/sanshengshui/multiTenant): in Chinese but mixing MyBatis+MyCat not necessarily used by the West.
 - [ultimate backend](https://github.com/juicycleff/ultimate-backend): Multi tenant SaaS Starter kit with cqrs graphQL Microservice architecture, apollo federation, event source and authentication written in Typescript.
 - [Full Isolation in Multi-Tenant SaaS](https://github.com/irahardianto/multitenant-microservices-demo): with Kubernetes + Istio.
+- [The big NoSQL databases comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/): Overall coverage but you will need to use them to know the difference and intricacies.
 - [Data Framework for SaaS in GoLang](https://github.com/go-saas/saas)
 - [Kubernetes Operator](https://github.com/cloud-ark/kubeplus): to build multi-instance SaaS from Helm Chart.
 - [Learn to build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs](https://github.com/panacloud/bootcamp-2020)
