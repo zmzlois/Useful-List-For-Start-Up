@@ -34,8 +34,9 @@
 - [Free Selfhosted Service](https://github.com/awesome-selfhosted/awesome-selfhosted?utm_source=hackertab.dev&utm_medium=post&utm_campaign=home): A curated list of selfhosted service from conference management, analytics and etc.
 - [Stack on a budget](https://github.com/255kb/stack-on-a-budget): A collection of services with great free tiers for developers on a budget. 
 
-### Product Analytics
-- [analytics.com](https://amalytics.com/): Amazon analytics to find top Amazon niches by keyword or criteria
+### Product Analytics & Market Research
+- [analytics.com](https://amalytics.com/): Amazon analytics to find top Amazon niches by keyword or criteria.
+- [Black box by Helium 10](https://www.helium10.com/tools/product-research/black-box/): Find high demand, low competition product ideas in every category on Amazon.
 - [Amplitude](https://amplitude.com/): Best in-class product analytics and user event tracking tool.
 
 
@@ -56,6 +57,14 @@
 - [TailwindUI](https://tailwindui.com/): landing page templates and components made by makers of Tailwind CSS.
 - [daisyUI](https://daisyui.com/): a plugin for Tailwind CSS.
 - [Vite](https://vitejs.dev/): Next generation front-end tooling enable to build landing page with react.
+
+### Copywriting
+- [Rytr](https://rytr.me/): AI writer create high-quality content in a few seconds.
+- [Writesonic](https://writesonic.com/): AI Writer for copywriting.
+
+
+### Content&Image Generation
+- [Depyct](https://www.depyct.co/): Build by the guy who inspired me to write this page.
 
 # Operation
 
