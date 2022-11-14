@@ -16,6 +16,8 @@
 - [Learn to build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs](https://github.com/panacloud/bootcamp-2020)
 - [Fusing Serverless, Graph, AI, IoT, DeFi, Blockchain and Quantum Technologies](https://github.com/panacloud/bootcamp-2021)
 - [CodeSandBox](https://codesandbox.io/): Collaboration tool for developement team
+- [GraphQL](https://graphql.org/): Query language for API
+- [gPRC](https://grpc.io/): High performance Remote Procedure Call(RPC) framework connect service in and across data centers with pluggable support for load balancing, tracing, health checking and authentication; applicable in last mile of distributed computing to connect devices, mobile app and browsers to backend services.
 
 
 ### Frontend
