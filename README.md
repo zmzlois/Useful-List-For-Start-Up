@@ -42,6 +42,7 @@
 
 
 ### Product Inspiration
+- [Progressive Web Apps](https://web.dev/progressive-web-apps/): Capable, reliable and installable with a single codebase like Twitter.
 - [f8app](https://github.com/fbsamples/f8app): Source code of an event/conference management app with tutorial on how they build it with React, Redux, Relay, GraphQL and etc. 
 - [Joplin](https://github.com/laurent22/joplin): An open source note-taking/to-do app with syncrhonisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [Cal.com](https://cal.com/): An open source scheduling tool to help you focus on meeting rather than making meeting. Product hunt ^
