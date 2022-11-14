@@ -42,6 +42,7 @@
 - [analytics.com](https://amalytics.com/): Amazon analytics to find top Amazon niches by keyword or criteria.
 - [Black box by Helium 10](https://www.helium10.com/tools/product-research/black-box/): Find high demand, low competition product ideas in every category on Amazon. Also with a short related [article](https://terrylennon.co/lessons-in-e-commerce/) about how to do research before selling products.
 - [Amplitude](https://amplitude.com/): Best in-class product analytics and user event tracking tool.
+- [Mixpanel](https://mixpanel.com/): Powerful, self-serve product analytics to help you convert, engage and retain more users.
 
 
 ### Product Inspiration
