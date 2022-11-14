@@ -27,6 +27,12 @@
 - [fullstackhero](https://github.com/fullstackhero)：Open source framework for modern web applications.
 - [Full Stack Modern Web Application Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql): use FastAPI, PostgreSQL, Docker, automatic HTTPS and more.
 
+### User Management
+- [Clerk](Integrate complete user management UIs and APIs, purpose-built for React, Next.js and Modern Web.
+
+### Payment & Revenue
+- [TRUELAYER](https://truelayer.com/): Easily integrate next-generation payments and financial data into any app.
+- [Stripe](https://stripe.com/gb): Financial infrastructure for the internet.
 
 ### ML
 - [datasets](https://github.com/huggingface/datasets): The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools.
@@ -75,4 +81,6 @@
 - [Depyct](https://www.depyct.co/): Build by the guy who inspired me to write this page.
 
 # Operation
+### Legal
+- [Rocket Lawyer](https://www.rocketlawyer.com/gb/en)
 
