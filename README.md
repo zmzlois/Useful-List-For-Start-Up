@@ -19,6 +19,7 @@
 
 
 ### Frontend
+- [Next.js](https://nextjs.org/)
 - [Turbo Repo](https://github.com/vercel/turbo): next-generation toolchain for frontend development, written in Rust.
 - [next.js examples](https://nextexamples.vercel.app/): A full example list of front-end and backend development in next.js
 - [fullstackhero](https://github.com/fullstackhero)：Open source framework for modern web applications.
