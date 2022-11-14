@@ -28,7 +28,7 @@
 - [Full Stack Modern Web Application Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql): use FastAPI, PostgreSQL, Docker, automatic HTTPS and more.
 
 ### User Management
-- [Clerk](https://clerk.dev/)Integrate complete user management UIs and APIs, purpose-built for React, Next.js and Modern Web.
+- [Clerk](https://clerk.dev/): Integrate complete user management UIs and APIs, purpose-built for React, Next.js and Modern Web.
 
 ### Payment & Revenue
 - [TRUELAYER](https://truelayer.com/): Easily integrate next-generation payments and financial data into any app.
