@@ -17,7 +17,7 @@
 - [Fusing Serverless, Graph, AI, IoT, DeFi, Blockchain and Quantum Technologies](https://github.com/panacloud/bootcamp-2021)
 - [CodeSandBox](https://codesandbox.io/): Collaboration tool for developement team
 - [GraphQL](https://graphql.org/): Query language for API
-- [gPRC](https://grpc.io/): High performance Remote Procedure Call(RPC) framework connect service in and across data centers with pluggable support for load balancing, tracing, health checking and authentication; applicable in last mile of distributed computing to connect devices, mobile app and browsers to backend services.
+- [gPRC](https://grpc.io/): High performance Remote Procedure Call(RPC) framework connect service in and across data centers with pluggable support for load balancing, tracing, health checking and authentication; applicable in last mile of distributed computing to connect devices, mobile app and browsers to backend services. Also with a [video](https://www.youtube.com/watch?v=l_P6m3JTyp0&ab_channel=NDCConferences) to compare GraphQL, gPRC and REST.
 
 
 ### Frontend
