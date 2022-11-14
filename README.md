@@ -66,6 +66,8 @@
 ### Copywriting
 - [Rytr](https://rytr.me/): AI writer create high-quality content in a few seconds.
 - [Writesonic](https://writesonic.com/): AI Writer for copywriting.
+- [Jasper.ai](https://www.jasper.ai/)
+- [copy.ai](https://www.copy.ai/)
 
 
 ### Content&Image Generation
