@@ -83,4 +83,4 @@
 # Operation
 ### Legal
 - [Rocket Lawyer](https://www.rocketlawyer.com/gb/en)
-
+- [SeedLegals](https://seedlegals.com/): Cap tables, Term sheet...prep you to fundraise!
