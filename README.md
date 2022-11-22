@@ -26,6 +26,7 @@
 - [next.js examples](https://nextexamples.vercel.app/): A full example list of front-end and backend development in next.js
 - [fullstackhero](https://github.com/fullstackhero)：Open source framework for modern web applications.
 - [Full Stack Modern Web Application Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql): use FastAPI, PostgreSQL, Docker, automatic HTTPS and more.
+- [Material UI](https://github.com/mui/material-ui): Pre-built React UI component to streamline frontend development process.
 
 ### User Management
 - [Clerk](https://clerk.dev/): Integrate complete user management UIs and APIs, purpose-built for React, Next.js and Modern Web.
